@@ -1,4 +1,4 @@
-# DIGITAL WORKER using Computer-Use Agent
+# Digital worker using Computer-Use Agent
 
 The implementation uses -
     Gemini 2.5 Computer Use model as the brain for deciding on actions
