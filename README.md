@@ -25,6 +25,7 @@ playwright install-deps chrome
 
 # Install the Chrome browser for Playwright
 playwright install chrome
+```
 
 ### Configuration
 
